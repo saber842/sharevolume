@@ -99,13 +99,6 @@ background-position: center
 - Extensible plugin architecture  
 - Built for reproducible research
 
-
-# Product: Analyze — Key Features
-
-- Interactive data pipelines  
-- Extensible plugin architecture  
-- Built for reproducible research
-
 ---
 
 ## Architecture (high level)
@@ -160,4 +153,3 @@ T_{wall}(n) \approx \frac{O(n \log n)}{p} + O\!\left(\frac{m}{p}\right)
 
 <div class="badge">Version control friendly</div>
 <div style="margin-top:10px;">Convert to PDF/PPTX/HTML via `marp-cli` in CI. See top comments for commands.</div>
-
