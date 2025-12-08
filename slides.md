@@ -88,9 +88,10 @@ code, pre {
 ---
 
 ---
-background-image: url('https://images.unsplash.com/photo-1505238680356-667803448bb6?auto=format&fit=crop&w=1350&q=80')
+background-image: url('assets/bg.png')
 background-size: cover
 background-position: center
+
 ---
 
 # Product: Analyze — Key Features
