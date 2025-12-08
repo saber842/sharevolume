@@ -91,8 +91,14 @@ code, pre {
 background-image: url('assets/bg.png')
 background-size: cover
 background-position: center
-
 ---
+
+# Product: Analyze — Key Features
+
+- Interactive data pipelines  
+- Extensible plugin architecture  
+- Built for reproducible research
+
 
 # Product: Analyze — Key Features
 
