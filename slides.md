@@ -88,7 +88,7 @@ code, pre {
 ---
 
 ---
-background-image: url('bg.png')
+background-image: url('assets/bg.png')
 background-size: cover
 background-position: center
 
